@@ -8,13 +8,13 @@
 - 🌐 programming languages - **javaScript | ES5 | ES6**
 
 - 💻 Frontend Technologies - **Html 5 | Css 3 | ReactJs | Bootstrap | Material UI**
-- 💬 Ask me about **from my skillset**
+- 💬 Ask me about **my skillset**
 
 - 📫 How to reach me **jenasmrutiranjan99@gmail.com** 
 
 - 🔭 Backend Technologies - **NodeJs | ExpressJs | MongoDB**
 
-- 🔧 Tools **Git | Github | VS Code | Postman**
+- 🔧 Tools - **Git | Github | VS Code | Postman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
