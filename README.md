@@ -1,11 +1,12 @@
  <h1 align="center">Hii 👋, I'm Smruti Ranjan Jena</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 hands on exprerience on **building web application , user authentication and authorization , global state management**
+- 🌱 hands on exprerience on **building web applications | user authentication and authorization | global state management**
 - 🌱 I’m currently learning **MERN full stack**
 - 🌐 programming languages - **javaScript | ES5 | ES6**
-- 💻 Frontend Technologies - **Html 5 | Css 3 | ReactJs | Bootstrap | Material UI**
-- 🔭 Backend Technologies - **NodeJs | ExpressJs | MongoDB**
+- 💻 Frontend - **Html 5 | Css 3 | ReactJs | Bootstrap | Material UI**
+- 🔭 Backend - **NodeJs | ExpressJs**
+- 🔭 Databases - **MongoDB**
 - 🔧 Tools - **Git | Github | VS Code | Postman**
 - 💬 Ask me about **my skillset**
 - 📫 How to reach me **jenasmrutiranjan99@gmail.com** 
