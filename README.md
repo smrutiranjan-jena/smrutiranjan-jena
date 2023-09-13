@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Smruti Ranjan Jena</h1>
-<h3 align="left">A passionate full stack developer</h3>
+<h3 align="center" color="green">A passionate full stack developer</h3>
 
 - 🌱 hands on exprerience on **building web applications | user authentication and authorization | global state management**
 - 🌱 I’m currently learning **MERN full stack**
