@@ -2,13 +2,13 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 - 🌱 hands on exprerience on **building dynamic web applications | implementing of user authentication and authorization and global state management**
-- 🌱 I’m currently learning **MERN full stack**
+- 🌱 I’m currently learning **MERN**
 - 🌐 programming languages - **javaScript | ES5 | ES6**
 - 💻 Frontend - **Html 5 | Css 3 | ReactJs | Bootstrap | Material UI**
 - 🔭 Backend - **NodeJs | ExpressJs**
 - 🔭 Databases - **MongoDB**
 - 🔧 Tools - **Git | Github | VS Code | Postman**
-- 💬 Ask me about **my skillset**
+- 💬 Ask me about **my skillset that i have mentioned**
 - 📫  you can reach out to me on **jenasmrutiranjan99@gmail.com** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
