@@ -3,7 +3,7 @@
 
 - 🌱 hands on exprerience on
 - **1.building dynamic web applications**
-- **2.implementing of user authentication and authorization**
+- **2.implementing user authentication and authorization**
 - **3.Handling global state management**
 - **4.Creating RESTfulAPIS**
 - 🌱 I’m currently learning **MERN**
