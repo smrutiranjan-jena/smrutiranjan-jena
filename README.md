@@ -8,7 +8,7 @@
 - **4.Creating RESTfulAPIS**
 - 🌱 I’m currently learning **MERN**
 - 🌐 programming languages - **javaScript | ES5 | ES6**
-- 💻 Frontend - **Html 5 | Css 3 | ReactJs | Bootstrap | Material UI**
+- 💻 Frontend - **Html 5 | Css 3 | ReactJs | Bootstrap/react-strap | Material UI**
 - 🛠️ Backend - **NodeJs | ExpressJs**
 - 🔭 Databases - **MongoDB**
 - 🔧 Tools - **Git | Github | VS Code | Postman**
