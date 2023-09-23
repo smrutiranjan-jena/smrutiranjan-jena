@@ -3,7 +3,7 @@
 
 - 🌱 hands on exprerience on **building dynamic web applications | implementing of user authentication and authorization and global state management**
 - 🌱 I’m currently learning **MERN**
-- 🛠️**TECH SKILLS**-
+- 🛠️**Tech Skills**
 - 🌐 programming languages - **javaScript | ES5 | ES6**
 - 💻 Frontend - **Html 5 | Css 3 | ReactJs | Bootstrap | Material UI**
 - 🔭 Backend - **NodeJs | ExpressJs**
