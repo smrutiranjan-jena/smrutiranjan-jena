@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Smruti Ranjan Jena</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- >>> hands on exprerience on >>>
+- hands on exprerience on >>>
 - **1.building dynamic web applications**
 - **2.implementing user authentication and authorization**
 - **3.Handling global state management**
