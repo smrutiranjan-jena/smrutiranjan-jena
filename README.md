@@ -5,8 +5,7 @@
 - **1.building dynamic web applications**
 - **2.implementing user authentication and authorization**
 - **3.Handling global state management**
-- **4.Creating RESTfulAPIS**
-- 🌱 I’m currently learning **MERN**
+- **4.Creating RESTfulAPIS **
 - 🌐 programming languages - **javaScript | ES5 | ES6**
 - 💻 Frontend - **Html 5 | Css 3 | ReactJs | Bootstrap/react-strap | Material UI**
 - 🛠️ Backend - **NodeJs | ExpressJs**
